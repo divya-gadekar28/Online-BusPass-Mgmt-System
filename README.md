@@ -9,6 +9,9 @@
 
 The Online Bus Pass Management System is a web application designed to automate and manage bus pass issuance and validation processes. This project aims to streamline the management of bus passes for public transport systems, making it easier for both passengers and administrators.
 
+**Note:** This project is still in progress. I am actively learning new concepts and implementing features accordingly.
+
+
 ## Features
 
 - **User Registration and Authentication**: Users can create accounts and log in securely.
